@@ -20,4 +20,4 @@ matches = re.findall(wd_edit, text)
 if matches:
 	print matches
 print "I've been hit by like", len(matches), "cars"
-print "\t\tyawhhhh.. <two deers at a bar>"
+print "yawhhhh.. <two deers at a bar>"
