@@ -2,8 +2,8 @@
 
 Test:
 <br> $ python w\?rd.py
-<br> </'?' is a wildchar> Word to find: ??a?
-<br> </inside pwd> File to search: ham.txt
+<br> <\'?' is a wildchar> Word to find: ??a?
+<br> <\inside dir> File to search: ham.txt
 <br> [' That ', ' that ', ' what ', ' That ', ' bear ', ' That ', ' that ', ' bear ', ' Than ', ' that ']
 <br> I've been hit by like 10 cars
-<br><t><t>yawhhhh.. <two deers at a bar>
+<br><t><t> yawhhhh.. <\two deers at a bar>
