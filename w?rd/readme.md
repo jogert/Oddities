@@ -6,4 +6,4 @@ Test:
 <br> &lt;inside dir&gt; File to search: ham.txt
 <br> [' That ', ' that ', ' what ', ' That ', ' bear ', ' That ', ' that ', ' bear ', ' Than ', ' that ']
 <br> Ive been hit by like 10 cars
-<br> yawhhhh.. <two deers at a bar>
+<br> 'yawhhhh.. <two deers at a bar>'
