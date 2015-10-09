@@ -8,8 +8,7 @@ word = str(raw_input("<'?' is a wildchar> Word to find: "))
 input_file = str(raw_input("<inside pwd> File to search: "))
 
 ## convert to wildcard character 
-wd_edit = word.replace('?', '\w')
-#print wd_edit
+wd_edit = ' ' + word.replace('?', '\w') + ' '
 
 ## read file
 fo = open(input_file, "r")
@@ -21,4 +20,4 @@ matches = re.findall(wd_edit, text)
 if matches:
 	print matches
 print "I've been hit by like", len(matches), "cars"
-print "\t\tyawhhhh.. <drunk deers>"
+print "\t\tyawhhhh.. <two deers at a bar>"
